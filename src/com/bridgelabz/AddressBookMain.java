@@ -7,5 +7,6 @@ public class AddressBookMain {
 
         addressBook.addContact();
         addressBook.editContact();
+        addressBook.deleteContact();
     }
 }
